@@ -1,5 +1,5 @@
 # Página web de recetarios de comidas
-Página web creada con fines académicos para mostrar al estudiante cómo subir sus proyectos a Git y cómo publicarlos en **GitHub Pages**.
+Página web creada con fines académicos para mostrar al estudiante cómo subir sus proyectos a GitHub y cómo publicarlos en **GitHub Pages**.
 ## Tecnologías utilizadas
 - HTML
 - CSS en linea
